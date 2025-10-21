@@ -23,3 +23,9 @@ button {
     margin-right: 5px;
     margin-bottom: 10px;
 }
+
+button:hover {
+    background-color: #A9A9A9;
+    border-radius: 10px;
+}
+
